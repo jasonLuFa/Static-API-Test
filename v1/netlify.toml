@@ -3,5 +3,5 @@
 
 [[redirects]]
   from = "/"
-  to = "/test.json"
+  to = "v1/test.json"
   status = 302
