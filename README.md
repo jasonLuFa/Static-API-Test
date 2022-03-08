@@ -1,3 +1,6 @@
 # Static-API-Test
+- simple test to make a static api in netlify
+- [static api demo][1]
 
-simple test to fake a static api in netlify
+
+[1]:https://static-api-test.netlify.app/v1/test.json
