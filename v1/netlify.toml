@@ -1,7 +1,0 @@
-[build]
-  publish = "v1"
-
-[[redirects]]
-  from = "/"
-  to = "v1/test.json"
-  status = 302
